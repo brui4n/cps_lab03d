@@ -1,5 +1,7 @@
 package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
-    // Hola mundo
+    public static void main(String[] args) {
+        System.out.println("Hola mundo - Bryan Coronel");
+    }
 }
